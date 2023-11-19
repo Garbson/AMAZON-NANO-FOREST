@@ -26,10 +26,11 @@
     </div>
 
     <!-- Seção About -->
-   <About></About>
+    <About></About>
 
     <!-- carroussel -->
     <div class="text-center">
+      <h2 class="text-4xl font-serif tmb-4 text-gray-800">Nossas Empresas:</h2>
       <div class="carroussel q-py-md text-center" id="q-app">
         <div class="q-mx-auto">
           <q-carousel
@@ -90,7 +91,6 @@ import Footer from "@/components/Footer.vue";
 import About from "@/components/About.vue";
 import Boss from "@/components/Boss.vue";
 
-
 export default {
   setup() {
     return {
@@ -118,13 +118,7 @@ export default {
   width: 50rem;
 }
 
-.aaa {
-  flex-direction: row-reverse;
 
-  @media screen and (max-width: 600px) {
-    flex-direction: rom;
-  }
-}
 
 .logo {
   width: 80%;
@@ -150,9 +144,5 @@ export default {
 .headline {
   font-size: 30px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-.qualificações {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: x-large;
 }
 </style>

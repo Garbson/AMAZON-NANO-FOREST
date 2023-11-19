@@ -14,7 +14,7 @@
         class="max-w-full bg-white p-4 md:p-12 rounded-md shadow-md flex flex-col h-full"
       >
         <h2
-          class="text-3xl md:text-4xl font-bold  md:mb-8 text-center text-gray-800"
+          class="text-3xl md:text-4xl  md:mb-8 text-center text-gray-800 font-serif"
         >
           Sobre Nós
         </h2>
