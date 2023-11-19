@@ -79,7 +79,7 @@
 
     <!-- Seção Donos da Empresa -->
     <!-- Seção Donos da Empresa -->
-    <Boos></Boos>
+    <Boss></Boss>
     <Footer></Footer>
   </div>
 </template>
@@ -88,7 +88,7 @@
 import { ref } from "vue";
 import Footer from "@/components/Footer.vue";
 import About from "@/components/About.vue";
-import Boos from "@/components/Boos.vue";
+import Boss from "@/components/Boss.vue";
 
 
 export default {
@@ -99,7 +99,7 @@ export default {
       fitModes: ["cover", "fill", "contain", "none", "scale-down"],
     };
   },
-  components: { Footer, About, Boos },
+  components: { Footer, About, Boss },
 };
 </script>
 <style scoped>
