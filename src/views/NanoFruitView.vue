@@ -8,5 +8,5 @@
 <script setup>
 import HeadFruit from '../components/HeadFruit.Vue';
 import AboutFruit from '../components/AboutFruit.vue';
-import CarrouselFruit from '../components/CarrouselFruit.vue';
+import CarrouselFruit from '../components/Carrouselfruit.vue';
 </script>

@@ -8,5 +8,5 @@
     <script setup>
     import HeadCaphair from '../components/HeadCaphair.vue';
     import AboutCaphair from '../components/AboutCaphair.vue';
-    import CarrouselFruit from '../components/carrouselfruit.vue';
+    import CarrouselFruit from '../components/Carrouselfruit.vue';
     </script>
