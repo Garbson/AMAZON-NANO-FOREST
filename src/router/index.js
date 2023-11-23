@@ -2,14 +2,28 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
       name: 'AmazonNano',
       component: () => import('../components/AmazonNano.vue')
     },
-
+    {
+      path: '/NanoFruit',
+      name: 'nanofruit',
+      component: () => import('../views/NanoFruitView.vue')
+    },
+    {
+      path: '/NanoCaphair',
+      name: 'nanocaphair',
+      component: () => import('../views/NanoCaphairView.vue')
+    },
+    {
+      path: '/GoldSerum',
+      name: 'nanoserum',
+      component: () => import('../views/GoldSerumView.vue')
+    },
   ]
 })
 

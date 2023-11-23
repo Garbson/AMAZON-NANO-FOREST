@@ -68,10 +68,10 @@
 </template>
 <style scoped>
 .equipe {
-  border-radius: 50%;
-  width: 20rem;
-  height: 18rem;
-  border: 1px solid black;
+border-radius: 50%;
+width: 20rem;
+height: 18rem;
+border: 1px solid black;
 }
 
 .qualificações {
@@ -79,10 +79,10 @@
   font-size: x-large;
 }
 .aaa {
-  flex-direction: row-reverse;
+flex-direction: row-reverse;
 
-  @media screen and (max-width: 600px) {
-    flex-direction: rom;
-  }
+@media screen and (max-width: 600px) {
+  flex-direction: rom;
+}
 }
 </style>

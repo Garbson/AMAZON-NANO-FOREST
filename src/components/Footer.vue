@@ -1,12 +1,12 @@
 <template>
-    <footer class="footer bg-slate-100 opacity-90 flex justify-between q-px-xl q-py-xl">
+    <footer class="footer flex justify-between q-px-xl q-py-xl">
       <div class="q-my-auto">
-        <img class="logo" src="img/Amazon2.png" alt="logo Amazon" width="500rem" />
+        <img class="logo" src="img/logoAmazon.png" alt="logo Amazon" width="500rem" />
       </div>
   
       <div class="q-my-auto">
         <div>
-          <h2 class="size-18 text-black text-raleway q-mb-sm">
+          <h2 class="size-18 text-white text-raleway q-mb-sm">
             Siga-nos:
           </h2>
         </div>
@@ -25,14 +25,14 @@
   
       <div class="q-my-auto">
         <div>
-          <h2 class="size-18 text-black text-raleway q-mb-sm">Fale Conosco</h2>
-          <p class=" text-montserrat size-14 q-mb-xs  text-black">
-            <q-icon name="email" class="q-mr-xs text-black" />
+          <h2 class="size-18 text-white text-raleway q-mb-sm">Fale Conosco</h2>
+          <p class=" text-montserrat size-14 q-mb-xs  text-white">
+            <q-icon name="email" class="q-mr-xs text-white" />
             amazon.nanoforest@gmail.com
           </p>
-          <p class="text-montserrat size-14 q-mb-xs  text-black">
-            <q-icon name="call" class="q-mr-xs  text-black" />
-            (68) 992490198
+          <p class="text-montserrat size-14 q-mb-xs  text-white">
+            <q-icon name="call" class="q-mr-xs  text-white" />
+            (68) 9924-90198
           </p>
         </div>
       </div>
@@ -50,7 +50,8 @@
       font-weight: bolder;
     }
     .logo{
-    height: 8rem;
+    height: 6rem;
+    max-width: 100%;
 
     }
   }
