@@ -7,7 +7,7 @@ const router = createRouter({
     {
       path: '/',
       name: 'AmazonNano',
-      component: () => import('../components/AmazonNano.vue')
+      component: () => import('../views/AmazonNanoView.vue')
     },
     {
       path: '/NanoFruit',
