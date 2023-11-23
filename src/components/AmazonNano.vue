@@ -3,7 +3,7 @@
     <!-- Seção principal -->
     <div class="relative bg-no-repeat bg-cover bg-center h-screen" style="background-image: url('img/Amazonia.jpg')">
       <NavBar />
-      <div class="absolute inset-0 bg-black opacity-80"></div>
+      <div class="absolute inset-0 bg-black opacity-70"></div>
       <div class="absolute inset-0 flex flex-col items-center text-white text-center">
         <!-- <img src="img/logoAmazon.png" alt="Logo da Empresa" class="logo mx-auto h-auto" /> -->
         <p class="headline absolute-center text-xl sm:mb-40 md:text-lg lg:text-lg xl:text-lg">
@@ -63,7 +63,7 @@ import About from '@/components/About.vue'
 import Boss from '@/components/Boss.vue'
 import NavBar from '@/components/NavBar.vue'
 import Contato from '@/components/Contato.vue'
-import Equipe from '@/components/Equipe.vue'
+// import Equipe from '@/components/Equipe.vue'
 
 const slide = ref(1)
 const autoplay = ref(true)

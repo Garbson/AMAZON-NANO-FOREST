@@ -13,7 +13,7 @@
     </div>
   </section>
 
-  <section class="aaa flex q-pa-lg bg-green-800 justify-center text-left">
+  <section class="aaa flex q-pa-lg bg-green-900 justify-center text-left">
     <div class="q-pa-lg text-right text-white">
       <h1 class="text-h4 text-raleway q-pt-xl text-left font-serif">Kauã Macedo</h1>
       <p class="qualificações size-18 text-montserrat-400 text-left">
@@ -41,7 +41,7 @@
     </div>
   </section>
 
-  <section class="aaa flex q-pa-lg bg-green-800 justify-center text-left font-serif">
+  <section class="aaa flex q-pa-lg bg-green-900 justify-center text-left font-serif">
     <div class="q-pa-lg text-right text-white">
       <h1 class="text-h4 text-raleway q-pt-xl text-left font-serif">Bruna Braga</h1>
       <p class="qualificações size-18 text-montserrat-400 text-left">
