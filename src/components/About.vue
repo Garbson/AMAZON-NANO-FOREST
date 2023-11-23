@@ -9,18 +9,18 @@
         <div class="text-base md:text-lg leading-6 md:leading-8 text-justify text-gray-700  md:mb-12 font-serif">
           <p>
             A Amazon NanoForest é uma empresa inovadora localizada no coração da Amazônia - Acre.
-            <br><br>
+            <br>
             Nascemos da união de três Startups visionárias:
             <ul class="list-disc ml-6 mb-6">
               <li>Nanocaphair.</li>
               <li>Gold Nanoserum e a</li>
               <li>Nano Fruit.</li>
             </ul>
-            Somos pioneiros no uso da Nanobiotecnologia aplicada aos recursos naturais de forma sustentável na Amazônia.
-            <br><br>
-            Estamos comprometidos em impulsionar o desenvolvimento sustentável na Amazônia, explorando as infinitas possibilidades que a Nanobiotecnologia pode oferecer.
-            <br><br>
-            Com o foco especial na sua biodiversidade, nosso trabalho visa equilibrar o avanço científico com a preservação do meio ambiente, contribuindo para o desenvolvimento da bioeconomia e da sustentabilidade.
+              Somos pioneiros no uso da Nanobiotecnologia aplicada aos recursos naturais de forma sustentável na Amazônia.
+            <br>
+              Estamos comprometidos em impulsionar o desenvolvimento sustentável na Amazônia, explorando as infinitas possibilidades que a Nanobiotecnologia pode oferecer.
+            <br>
+              Com o foco especial na sua biodiversidade, nosso trabalho visa equilibrar o avanço científico com a preservação do meio ambiente, contribuindo para o desenvolvimento da bioeconomia e da sustentabilidade.
           </p>
         </div>
       </div>

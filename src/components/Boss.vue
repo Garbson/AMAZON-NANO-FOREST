@@ -1,13 +1,10 @@
 <template>
-  <section class="flex q-pa-lg bg-dark justify-center">
+  <section class="flex q-pa-lg bg-white justify-center" id="equipe">
     <div class="q-pa-lg">
-      <h1 class="text-h4 text-white text-raleway q-pt-xl font-serif">
-        Fernando Drummond
-      </h1>
-      <p class="qualificações size-18 text-montserrat-400 text-white">
-        Engenheiro Químico; <br />Doutor em Biotecnologia <br />Pós-Doutor em
-        Nanobiotecnologia <br />Diretor Chefe de Tecnologia e Founder da
-        Amazon NanoForest
+      <h1 class="text-h4 text-black text-raleway q-pt-xl font-serif">Fernando Drummond</h1>
+      <p class="qualificações size-18 text-montserrat-400 text-black">
+        Engenheiro Químico; <br />Doutor em Biotecnologia <br />Pós-Doutor em Nanobiotecnologia <br />Diretor Chefe de Tecnologia e Founder
+        da Amazon NanoForest
       </p>
     </div>
 
@@ -16,8 +13,8 @@
     </div>
   </section>
 
-  <section class="aaa flex q-pa-lg justify-center text-left">
-    <div class="q-pa-lg text-right">
+  <section class="aaa flex q-pa-lg bg-green-900 justify-center text-left">
+    <div class="q-pa-lg text-right text-white">
       <h1 class="text-h4 text-raleway q-pt-xl text-left font-serif">Kauã Macedo</h1>
       <p class="qualificações size-18 text-montserrat-400 text-left">
         Graduando em Farmácia <br />
@@ -31,12 +28,11 @@
     </div>
   </section>
 
-  <section class="flex q-pa-lg bg-dark justify-center font-serif">
-    <div class="q-pa-lg">
-      <h1 class="text-h4 text-white text-raleway q-pt-xl font-serif">Joana Maia</h1>
-      <p class="qualificações size-18 text-montserrat-400 text-white">
-        Graduanda em Nutrição <br />Chefe de Comunicação e Co-founder da
-        Amazon NanoForest
+  <section class="flex q-pa-lg bg-white justify-center font-serif">
+    <div class="q-pa-lg text-black">
+      <h1 class="text-h4 text-raleway q-pt-xl font-serif">Joana Maia</h1>
+      <p class="qualificações size-18 text-montserrat-400">
+        Graduanda em Nutrição <br />Chefe de Comunicação e Co-founder da Amazon NanoForest
       </p>
     </div>
 
@@ -45,12 +41,11 @@
     </div>
   </section>
 
-  <section class="aaa flex q-pa-lg justify-center text-left font-serif">
-    <div class="q-pa-lg text-right">
+  <section class="aaa flex q-pa-lg bg-green-900 justify-center text-left font-serif">
+    <div class="q-pa-lg text-right text-white">
       <h1 class="text-h4 text-raleway q-pt-xl text-left font-serif">Bruna Braga</h1>
       <p class="qualificações size-18 text-montserrat-400 text-left">
-        Graduanda em Farmácia <br />CEO da Startup Nanocaphair <br />Técnica
-        em Biotecnologia e Co-Founder da Amazon NanoForest
+        Graduanda em Farmácia <br />CEO da Startup Nanocaphair <br />Técnica em Biotecnologia e Co-Founder da Amazon NanoForest
       </p>
     </div>
     <div class="q-pa-md q-mt-lg">
@@ -58,12 +53,11 @@
     </div>
   </section>
 
-  <section class="flex q-pa-lg bg-dark justify-center">
-    <div class="q-pa-lg">
-      <h1 class="text-h4 text-white text-raleway q-pt-xl font-serif">Iago Pimenta</h1>
-      <p class="qualificações size-18 text-montserrat-400 text-white">
-        Chefe de Designer <br />CEO da Startup Gold Nanoserum e Co-Founder da
-        Amazon NanoForest
+  <section class="flex q-pa-lg bg-white justify-center">
+    <div class="q-pa-lg text-black">
+      <h1 class="text-h4 text-raleway q-pt-xl font-serif">Iago Pimenta</h1>
+      <p class="qualificações size-18 text-montserrat-400">
+        Chefe de Designer <br />CEO da Startup Gold Nanoserum e Co-Founder da Amazon NanoForest
       </p>
     </div>
 
@@ -71,7 +65,6 @@
       <img class="equipe" src="img/iago.jpg" alt="" />
     </div>
   </section>
-
 </template>
 <style scoped>
 .equipe {
@@ -82,8 +75,8 @@ border: 1px solid black;
 }
 
 .qualificações {
-font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-font-size: x-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
 }
 .aaa {
 flex-direction: row-reverse;
@@ -92,5 +85,4 @@ flex-direction: row-reverse;
   flex-direction: rom;
 }
 }
-
 </style>
