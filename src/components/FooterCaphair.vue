@@ -1,7 +1,7 @@
 <template>
     <footer class="footer flex  justify-between q-px-xl q-py-xl">
       <div class="q-my-auto">
-        <img class="logo" src="img/Amazon2.png" alt="logo Amazon" width="500rem" />
+        <img class="logo" src="img/caphair.png" alt="logo Amazon" width="500rem" />
       </div>
   
       <div class="q-my-auto">
@@ -11,10 +11,7 @@
           </h2>
         </div>
         <div style="display: flex; align-items: center">
-          <a href="https://www.facebook.com/www.golfim.com.br?mibextid=PzaGJu"
-            ><img src="img/facebook.png" alt="Facebook" class="q-mr-sm w-15 h-11"
-          /></a>
-          <a href="https://instagram.com/amazon.nanoforest?igshid=OGQ5ZDc2ODk2ZA=="
+          <a href="https://instagram.com/nanocaphair?igshid=OGQ5ZDc2ODk2ZA=="
             ><img
               src="img/instagram.svg"
               alt="Instagram"
@@ -32,7 +29,7 @@
           </p>
           <p class="text-montserrat size-14 q-mb-xs  text-black">
             <q-icon name="call" class="q-mr-xs  text-black" />
-            (68) 9924-90198
+            +55 (68) 99922-1518
           </p>
         </div>
       </div>
@@ -52,7 +49,6 @@
     .logo{
     height: 6rem;
     max-width: 100%;
-
     }
   }
   </style>

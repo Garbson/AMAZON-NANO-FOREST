@@ -1,10 +1,10 @@
 <template>
-  <div class="text-center">
-    <h2 class="text-4xl font-serif tmb-4 text-gray-800">Nossas Empresas:</h2>
+  <div class="text-center bg-green-900 py-12">
+    <h2 class="text-4xl font-serif tmb-4 text-white">Nossas Empresas:</h2>
     <div class="carroussel q-py-md text-center" id="q-app">
       <div class="q-mx-auto">
         <q-carousel
-          class="carrousel q-mx-auto"
+          class="carrousel q-mx-auto rounded-xl"
           animated
           v-model="slide"
           infinite
@@ -48,17 +48,11 @@
     </div>
   </div>
 </template>
-<script>
+<script setup>
 import { ref } from "vue";
-export default {
-  setup() {
-    return {
-      slide: ref(1),
-      autoplay: ref(true),
-      fitModes: ["cover", "fill", "contain", "none", "scale-down"],
-    };
-  },
-};
+const slide = ref(1)
+const autoplay = ref(true)
+const fitModes = ['cover', 'fill', 'contain', 'none', 'scale-down']
 </script>
 <style scoped>
 .slide {

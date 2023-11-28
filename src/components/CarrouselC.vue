@@ -1,6 +1,6 @@
 <template>
-  <div class="text-center max-w-full bg-white   py-12">
-    <div class="" id="q-app">
+  <div class="text-center max-w-full bg-white py-12">
+    <div class="carroussel text-center" id="q-app">
       <div class="q-mx-auto">
         <q-carousel
           class="carrousel q-mx-auto rounded-xl"
@@ -19,7 +19,7 @@
             <q-img
               height="100%"
               width="50rem"
-              src="img/CF1.jpg"
+              src="img/CC1.jpg"
               fit="cover"
               class="framed-image"
             ></q-img>
@@ -28,7 +28,7 @@
             <q-img
               height="100%"
               width="50rem"
-              src="img/CF2.jpg"
+              src="img/CC2.jpg"
               fit="cover"
               class="framed-image"
             ></q-img>
@@ -37,7 +37,7 @@
             <q-img
               height="100%"
               width="50rem"
-              src="img/CF3.jpg"
+              src="img/CC3.jpg"
               fit="cover"
               class="framed-image"
             ></q-img>
@@ -46,7 +46,7 @@
             <q-img
               height="100%"
               width="50rem"
-              src="img/CF4.jpg"
+              src="img/CC4.jpg"
               fit="cover"
               class="framed-image"
             ></q-img>
@@ -58,9 +58,9 @@
 </template>
 <script setup>
 import { ref } from "vue";
-const slide = ref(1)
-const autoplay = ref(true)
-const fitModes = ['cover', 'fill', 'contain', 'none', 'scale-down']
+const slide = ref(1);
+const autoplay = ref(true);
+const fitModes = ["cover", "fill", "contain", "none", "scale-down"];
 </script>
 <style scoped>
 .slide {
@@ -76,13 +76,5 @@ const fitModes = ['cover', 'fill', 'contain', 'none', 'scale-down']
 .carrousel {
   max-width: 90%;
   width: 50rem;
-}
-@media (max-width: 768px){
-  .slide{
-    object-fit: contain;
-  }
-  .framed-image{
-    object-fit: contain;
-  }
 }
 </style>

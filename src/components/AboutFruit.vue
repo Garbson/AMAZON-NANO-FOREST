@@ -1,25 +1,22 @@
 <template>
   <div class="py-1 sm:py-16">
-    <div
-      class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-1 items-stretch"
-    >
-      <div>
-        <img
-          class="w-full h-full mb-8 md:mb-0"
-          src="img/Fruitimg.png"
-          alt="Imagem Sobre Nós"
-        />
-      </div>
-      <div
-        class="max-w-full bg-white p-4 md:p-8 rounded-md shadow-md flex flex-col"
-      >
-        <h2
+    <h2
           class="text-2xl md:text-3xl md:mb-6 text-center text-gray-800 font-serif"
         >
           Sobre Nós
         </h2>
+    <div
+      class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-1 items-stretch"
+    >
+      <div>
+        <CarrouselFruit></CarrouselFruit>
+      </div>
+      <div
+        class="max-w-full bg-white p-4 md:p-8 rounded-md  flex flex-col"
+      >
+      
         <div
-          class="text-base md:text-lg leading-6 md:leading-8 text-justify text-gray-700 md:mb-12 font-serif"
+          class="text-base q-py-sm md:text-lg leading-6 md:leading-8 text-justify text-gray-700 md:mb-12 font-serif"
         >
           Na deslumbrante região do Acre, nasceu a NanoFruit, uma inovadora
           startup dedicada a revolucionar a indústria agrícola. Movidos por uma
@@ -40,13 +37,7 @@
     </div>
   </div>
 </template>
-<style scoped>
-@media (max-width: 768px) {
-  img {
-    max-width: 95%;
-    display: flex;
-    align-items: center;
-    margin: 0 auto;
-  }
-}
-</style>
+<script setup> 
+import CarrouselFruit from '@/components/CarrouselFruit.vue'
+</script>
+

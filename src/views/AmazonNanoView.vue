@@ -1,9 +1,11 @@
 <template>
   <div>
     <Head/>
+    <Whats></Whats>
     <About/>
     <Carrousel/>
     <Boss/>
+    <Contato></Contato>
     <Footer/>
   </div>
 </template>
@@ -13,4 +15,6 @@ import About from "@/components/About.vue";
 import Boss from "@/components/Boss.vue";
 import Head from "@/components/Head.vue";
 import Carrousel from "@/components/Carrousel.vue";
+import Contato from '@/components/Contato.vue'
+import Whats from '../components/Whats.vue';
 </script>

@@ -1,7 +1,7 @@
 <template>
-    <footer class="footer flex  justify-between q-px-xl q-py-xl">
+    <footer class="footer flex  justify-between q-px-xl q-py-sm">
       <div class="q-my-auto">
-        <img class="logo" src="img/Amazon2.png" alt="logo Amazon" width="500rem" />
+        <img class="logo" src="img/gold.png" alt="logo Amazon" width="350rem" />
       </div>
   
       <div class="q-my-auto">
@@ -10,11 +10,8 @@
             Siga-nos:
           </h2>
         </div>
-        <div style="display: flex; align-items: center">
-          <a href="https://www.facebook.com/www.golfim.com.br?mibextid=PzaGJu"
-            ><img src="img/facebook.png" alt="Facebook" class="q-mr-sm w-15 h-11"
-          /></a>
-          <a href="https://instagram.com/amazon.nanoforest?igshid=OGQ5ZDc2ODk2ZA=="
+        <div style="display: flex; align-items: center">        
+          <a href="https://instagram.com/goldnanoserum?igshid=OGQ5ZDc2ODk2ZA=="
             ><img
               src="img/instagram.svg"
               alt="Instagram"
@@ -28,11 +25,11 @@
           <h2 class="size-18 text-black text-raleway q-mb-sm">Fale Conosco</h2>
           <p class=" text-montserrat size-14 q-mb-xs  text-black">
             <q-icon name="email" class="q-mr-xs text-black" />
-            amazon.nanoforest@gmail.com
+            dagohenri75@gmail.com
           </p>
           <p class="text-montserrat size-14 q-mb-xs  text-black">
             <q-icon name="call" class="q-mr-xs  text-black" />
-            (68) 9924-90198
+            +55 (68) 99202-4156
           </p>
         </div>
       </div>
@@ -50,7 +47,7 @@
       font-weight: bolder;
     }
     .logo{
-    height: 6rem;
+    height: 10rem;
     max-width: 100%;
 
     }

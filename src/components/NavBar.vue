@@ -2,7 +2,7 @@
   <header class="relative flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-transparent text-sm py-4 dark:bg-gray-800">
     <nav class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
       <div class="flex items-center justify-between">
-        <a class="flex-none text-xl font-semibold" href="#"> <img src="img/logoAmazon.jpg" alt="" class="h-32" /></a>
+        <a class="flex-none text-xl font-semibold" href="#"> <img src="img/logoAmazon.png" alt="" class="h-20" /></a>
         <div class="sm:hidden">
           <button
             type="button"

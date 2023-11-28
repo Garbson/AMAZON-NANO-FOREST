@@ -2,8 +2,7 @@
   <section class="bg-green-900" id="contact">
     <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
       <div class="mb-4">
-        <div class="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
-          <p class="text-base font-semibold uppercase tracking-wide text-emerald-500">Contato</p>
+        <div class="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">   
           <h2 class="font-heading mb-4 font-bold tracking-tight text-gray-900 dark:text-white text-3xl sm:text-5xl">Entre em contato!</h2>
         </div>
       </div>
