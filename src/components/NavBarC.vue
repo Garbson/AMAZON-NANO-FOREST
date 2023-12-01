@@ -1,7 +1,7 @@
 <template>
   <header
     :class="[navClass]"
-    class="fixed flex flex-wrap z-50 w-full text-sm py-4"
+    class="relative flex flex-wrap z-50 w-full text-sm py-4"
   >
     <nav
       class="max-w-[85rem] justify-center flex w-full mx-auto px-4 sm:flex sm:items-center"

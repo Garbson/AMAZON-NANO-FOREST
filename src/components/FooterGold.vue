@@ -1,7 +1,7 @@
 <template>
-    <footer class="footer flex  justify-between q-px-xl q-py-sm">
+    <footer class="footer flex  justify-between q-px-xl">
       <div class="q-my-auto">
-        <img class="logo" src="img/gold.png" alt="logo Amazon" width="350rem" />
+        <img class="logo" src="img/gold.png" alt="logo Amazon" width="300rem" />
       </div>
   
       <div class="q-my-auto">

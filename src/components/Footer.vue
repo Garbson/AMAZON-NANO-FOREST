@@ -1,5 +1,5 @@
 <template>
-    <footer class="footer flex  justify-between q-px-xl q-py-xl">
+    <footer class="footer flex justify-between q-px-xl ">
       <div class="q-my-auto">
         <img class="logo" src="img/Amazon2.png" alt="logo Amazon" width="500rem" />
       </div>
