@@ -25,7 +25,7 @@
           <h2 class="size-18 text-black text-raleway q-mb-sm">Fale Conosco</h2>
           <p class=" text-montserrat size-14 q-mb-xs  text-black">
             <q-icon name="email" class="q-mr-xs text-black" />
-            dagohenri75@gmail.com
+            amazon.nanoforest@gmail.com
           </p>
           <p class="text-montserrat size-14 q-mb-xs  text-black">
             <q-icon name="call" class="q-mr-xs  text-black" />

@@ -2,8 +2,8 @@
     <div>    
     <HeadGold></HeadGold>
     <Whats></Whats>
-    <AboutGold></AboutGold>
-    <ContatoG></ContatoG>
+    <AboutGold id="about"></AboutGold>
+    <ContatoG id="contato"></ContatoG>
     <FooterGold></FooterGold>
     </div>
     </template>

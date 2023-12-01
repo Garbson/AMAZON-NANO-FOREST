@@ -28,7 +28,7 @@
  }
  .headline {
    font-size: 15px;
-   margin-top: 2px;
+   margin-top: 50px;
    text-align: left;
  }
 }

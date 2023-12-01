@@ -30,6 +30,7 @@
    font-size: 15px;
    margin-top: 2px;
    text-align: left;
+   margin-top: 50px;
  }
 }
 .headline {

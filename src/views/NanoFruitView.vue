@@ -2,8 +2,8 @@
 <div>    
 <HeadFruit></HeadFruit>
 <Whats></Whats>
-<AboutFruit></AboutFruit>
-<ContatoF></ContatoF>
+<AboutFruit id="about"></AboutFruit>
+<ContatoF id="contato"></ContatoF>
 <FooterFruit></FooterFruit>
 </div>
 </template>

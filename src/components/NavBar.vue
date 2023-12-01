@@ -17,13 +17,13 @@
               <q-menu>
                 <q-list>
                   <q-item clickable v-close-popup>
-                    <q-item-section>Nanocaphair</q-item-section>
+                   <a href="/NanoCaphair"><q-item-section>NanoCaphair</q-item-section></a>
                   </q-item>
                   <q-item clickable v-close-popup>
-                    <q-item-section>Gold Nanoserum </q-item-section>
+                   <a href="/GoldSerum"><q-item-section>GoldNanoSerum </q-item-section></a> 
                   </q-item>
                   <q-item clickable v-close-popup>
-                    <q-item-section>Nano Fruit</q-item-section>
+                   <a href="/NanoFruit"><q-item-section>NanoFruit</q-item-section></a> 
                   </q-item>
                 </q-list>
               </q-menu>

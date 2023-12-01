@@ -2,7 +2,7 @@
   <div>
     <Head/>
     <Whats></Whats>
-    <About/>
+    <About id="about"/>
     <Carrousel/>
     <Boss/>
     <Contato></Contato>
