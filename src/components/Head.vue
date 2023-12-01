@@ -1,14 +1,14 @@
 <template>
-   <div class="relative bg-no-repeat bg-cover bg-center h-screen" style="background-image: url('img/Amazonia.jpg')">
-      <NavBar />
-      <div class="absolute inset-0 bg-black opacity-70"></div>
-      <div class="absolute inset-0 flex flex-col items-center text-white text-center">
-        <!-- <img src="img/logoAmazon.png" alt="Logo da Empresa" class="logo mx-auto h-auto" /> -->
-        <p class="headline absolute-center text-xl sm:mb-40 md:text-lg lg:text-lg xl:text-lg">
-          Nanobiotecnologia na Amazônia: transformando ativos naturais em inovações sustentáveis.
-        </p>
-      </div>
+  <div class="relative bg-no-repeat bg-cover bg-center h-screen" style="background-image: url('img/Amazonia.jpg')">
+    <NavBar logo="img/logoAmazon.png" />
+    <div class="absolute inset-0 bg-black opacity-70"></div>
+    <div class="absolute inset-0 flex flex-col items-center text-white text-center">
+      <!-- <img src="img/logoAmazon.png" alt="Logo da Empresa" class="logo mx-auto h-auto" /> -->
+      <p class="headline absolute-center text-xl sm:mb-40 md:text-lg lg:text-lg xl:text-lg">
+        Nanobiotecnologia na Amazônia: transformando ativos naturais em inovações sustentáveis.
+      </p>
     </div>
+  </div>
 </template>
 <style scoped>
 .logo {
@@ -34,7 +34,7 @@
 }
 .headline {
   font-size: 30px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 </style>
 <script setup>
