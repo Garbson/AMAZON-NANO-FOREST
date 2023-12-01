@@ -29,17 +29,7 @@
   </div>
 </template>
 <style scoped>
-@media (max-width: 768px){
-img{
-  max-width: 90%;
-  display: flex;
-  align-items: center;
-  margin: 0 auto;
-}
-.texto{
-margin: 20px;
-}
-}
+
 @media (max-width: 1258px)
 {
 .texto{font-size: 15px;
@@ -61,5 +51,17 @@ margin: 20px;
     max-height: 30rem;
     margin: 0 auto;
   }
+}
+@media (max-width: 768px){
+img{
+  max-width: 90%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+.texto{
+margin: 20px;
+font-size: 17px;
+}
 }
 </style>
