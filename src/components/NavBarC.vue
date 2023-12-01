@@ -10,7 +10,7 @@
       <!-- logo -->
       <div class="flex items-center justify-between">
         <a class="flex-none text-xl font-semibold" href="#">
-          <img src="img/" alt="" class="h-20"
+          <img src="img/CaphairW.png" alt="" class="h-20"
         /></a>
       </div>
 
