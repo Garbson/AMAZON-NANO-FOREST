@@ -3,7 +3,7 @@
     <nav class="max-w-[85rem] justify-center flex w-full mx-auto px-4 sm:flex sm:items-center" aria-label="Global">
       <!-- logo -->
       <div class="flex items-center justify-between">
-        <a class="flex-none text-xl font-semibold" href="#"> <img :src="logo" alt="" class="h-20" /></a>
+        <a class="flex-none text-xl font-semibold" href="/"> <img :src="logo" alt="" class="h-20" /></a>
       </div>
 
       <!-- nav-bar -->
@@ -27,7 +27,7 @@
                   </q-item>
                 </q-list>
               </q-menu>
-              Empresas
+              Produtos
               <svg
                 class="ms-1 flex-shrink-0 w-4 h-4"
                 xmlns="http://www.w3.org/2000/svg"

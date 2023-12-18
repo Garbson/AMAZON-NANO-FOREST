@@ -1,7 +1,7 @@
 <template>
   <div class="relative bg-no-repeat bg-cover bg-center h-screen" style="background-image: url('img/Amazonia.jpg')">
     <NavBar logo="img/logoAmazon.png" />
-    <div class="absolute inset-0 bg-black opacity-70"></div>
+    <div class="absolute inset-0 bg-black opacity-60"></div>
     <div class="absolute inset-0 flex flex-col items-center text-white text-center">
       <!-- <img src="img/logoAmazon.png" alt="Logo da Empresa" class="logo mx-auto h-auto" /> -->
       <p class="headline absolute-center text-xl sm:mb-40 md:text-lg lg:text-lg xl:text-lg">

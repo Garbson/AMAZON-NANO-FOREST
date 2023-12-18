@@ -1,6 +1,6 @@
 <template>
   <div class="text-center bg-green-900 py-12">
-    <h2 class="text-4xl font-serif tmb-4 text-white">Nossas Empresas:</h2>
+    <h2 class="text-4xl font-serif tmb-4 text-white">Nossos Produtos:</h2>
     <div class="carroussel q-py-md text-center" id="q-app">
       <div class="q-mx-auto">
         <q-carousel

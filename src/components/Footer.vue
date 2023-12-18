@@ -1,7 +1,7 @@
 <template>
     <footer class="footer flex justify-between q-px-xl ">
       <div class="q-my-auto">
-        <img class="logo" src="img/Amazon2.png" alt="logo Amazon" width="500rem" />
+        <a href="/"><img class="logo" src="img/Amazon2.png" alt="logo Amazon" width="500rem" /></a>
       </div>
   
       <div class="q-my-auto">
@@ -10,10 +10,7 @@
             Siga-nos:
           </h2>
         </div>
-        <div style="display: flex; align-items: center">
-          <a href="https://www.facebook.com/www.golfim.com.br?mibextid=PzaGJu"
-            ><img src="img/facebook.png" alt="Facebook" class="q-mr-sm w-15 h-11"
-          /></a>
+        <div style="display: flex; align-items: center">        
           <a href="https://instagram.com/amazon.nanoforest?igshid=OGQ5ZDc2ODk2ZA=="
             ><img
               src="img/instagram.svg"
@@ -22,7 +19,6 @@
           /></a>
         </div>
       </div>
-  
       <div class="q-my-auto">
         <div>
           <h2 class="size-18 text-black text-raleway q-mb-sm">Fale Conosco</h2>
