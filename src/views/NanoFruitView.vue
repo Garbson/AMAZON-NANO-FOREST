@@ -3,7 +3,7 @@
 <HeadFruit></HeadFruit>
 <Whats></Whats>
 <AboutFruit id="about"></AboutFruit>
-<ContatoF id="contato"></ContatoF>
+<Contato id="contato"></Contato>
 <Footer></Footer>
 </div>
 </template>
@@ -11,6 +11,6 @@
 import HeadFruit from '../components/HeadFruit.vue' ;
 import AboutFruit from '../components/AboutFruit.vue';
 import Footer from '../components/Footer.vue';
-import ContatoF from '../components/contatoF.vue';
+import Contato from '../components/contato.vue';
 import Whats from '../components/Whats.vue';
 </script>
